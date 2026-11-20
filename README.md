@@ -45,7 +45,7 @@ The held-out test set contains 3,000 transactions. The included model reports:
 | Metric | Legitimate (`0`) | Fraudulent (`1`) |
 |---|---:|---:|
 | Precision | 0.98 | 0.06 |
-| Recall | 0.01 | 0.01 |
+| Recall | 0.97 | 0.97 |
 | F1-score | 0.99 | 0.02 |
 | Support | 2,933 | 67 |
 
