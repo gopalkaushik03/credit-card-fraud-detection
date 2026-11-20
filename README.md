@@ -2,8 +2,6 @@
 
 An end-to-end machine learning demonstration for classifying credit-card transactions as legitimate or fraudulent. It combines a scikit-learn training pipeline, a Flask prediction API, and a responsive browser interface.
 
-> **Demonstration only:** the bundled data is synthetic and the model is not validated for real payment decisions or financial-risk systems.
-
 ## Overview
 
 The application accepts five human-readable transaction attributes, sends them to a local REST API, and returns:
